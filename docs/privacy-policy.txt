@@ -1,0 +1,67 @@
+POLÍTICA DE PRIVACIDAD — ZODYA
+Última actualización: 26 de marzo de 2026
+
+Zodya ("nosotros", "la app") se compromete a proteger tu privacidad. Esta política explica qué información recopilamos, cómo la usamos y tus derechos al respecto.
+
+
+1. INFORMACIÓN QUE RECOPILAMOS
+
+Datos proporcionados por ti:
+- Fecha de nacimiento — para calcular tu signo zodiacal.
+- Hora de nacimiento — para generar tu carta natal.
+- Ciudad de nacimiento — para determinar coordenadas geográficas de la carta natal.
+- Nombre (opcional) — para personalizar tu perfil.
+
+Todos estos datos se almacenan EXCLUSIVAMENTE EN TU DISPOSITIVO (almacenamiento local) y NO se envían a ningún servidor externo.
+
+Datos recopilados automáticamente:
+- Datos de publicidad — Google AdMob puede recopilar identificadores de dispositivo y datos de uso para mostrar anuncios. Consulta la Política de Privacidad de Google: https://policies.google.com/privacy
+- Datos de compras — Las transacciones de suscripción se procesan por Google Play y están sujetas a la Política de Google Play: https://play.google.com/about/play-terms/
+
+
+2. CÓMO USAMOS LA INFORMACIÓN
+
+- Generar tu horóscopo personalizado y carta natal.
+- Calcular tránsitos y progresiones astrológicas.
+- Enviar notificaciones diarias de horóscopo (si das permiso).
+- Mostrar anuncios a través de Google AdMob (sujeto a tu consentimiento).
+- Procesar tu suscripción premium a través de Google Play Billing.
+
+
+3. COMPARTICIÓN DE DATOS
+
+NO vendemos ni compartimos tus datos personales con terceros, excepto:
+- Google AdMob — para servir anuncios (sujeto a tu consentimiento GDPR).
+- Google Play Billing — para procesar pagos de suscripción.
+
+
+4. ALMACENAMIENTO Y SEGURIDAD
+
+Todos los datos personales (fecha, hora, ciudad de nacimiento y nombre) se almacenan localmente en tu dispositivo mediante SharedPreferences. No mantenemos servidores ni bases de datos externas con tu información personal.
+
+Los datos de compra son gestionados íntegramente por Google Play y están protegidos por sus medidas de seguridad.
+
+
+5. TUS DERECHOS
+
+- Eliminar datos — Puedes borrar todos tus datos desinstalando la app o usando "Borrar datos" en Configuración > Aplicaciones > Zodya.
+- Consentimiento de anuncios — Puedes modificar tus preferencias de anuncios personalizados cuando la app te muestre el diálogo de consentimiento (UMP).
+- Notificaciones — Puedes desactivar las notificaciones en la app o en los ajustes del sistema.
+- Suscripción — Puedes cancelar tu suscripción en cualquier momento desde Google Play → Suscripciones.
+
+
+6. MENORES DE EDAD
+
+Zodya no está dirigida a menores de 13 años. No recopilamos conscientemente datos de menores de 13 años. Si crees que hemos recopilado datos de un menor, contacta con nosotros para eliminarlos.
+
+
+7. CAMBIOS EN ESTA POLÍTICA
+
+Podemos actualizar esta política ocasionalmente. Te notificaremos de cambios significativos a través de la app.
+
+
+8. CONTACTO
+
+Email: zodya.app@gmail.com
+
+© 2026 Zodya. Todos los derechos reservados.
