@@ -44,7 +44,7 @@ Los datos de compra son gestionados íntegramente por Google Play y están prote
 
 5. TUS DERECHOS
 
-- Eliminar datos — Puedes borrar todos tus datos desinstalando la app o usando "Borrar datos" en Configuración > Aplicaciones > Zodya.
+- Eliminar datos — Puedes borrar todos tus datos personales directamente desde la app: abre Perfil y pulsa "Eliminar mis datos". También puedes desinstalar la app o usar "Borrar datos" en Configuración > Aplicaciones > Zodya.
 - Consentimiento de anuncios — Puedes modificar tus preferencias de anuncios personalizados cuando la app te muestre el diálogo de consentimiento (UMP).
 - Notificaciones — Puedes desactivar las notificaciones en la app o en los ajustes del sistema.
 - Suscripción — Puedes cancelar tu suscripción en cualquier momento desde Google Play → Suscripciones.
